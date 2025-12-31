@@ -34,7 +34,7 @@ src/
 ├─ services/      # Assessment orchestration
 ├─ types/         # Type definitions
 └─ index.ts       # Entry point
-
+```
 
 ## Installation
 
